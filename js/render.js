@@ -1,4 +1,5 @@
 const components = [
+	'navbar',
 	'header',
 	'schedule',
 ];
