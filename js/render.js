@@ -2,6 +2,7 @@ const components = [
 	'navbar',
 	'header',
 	'schedule',
+	'shirt',
 ];
 const path = './components';
 for (const name of components) {
